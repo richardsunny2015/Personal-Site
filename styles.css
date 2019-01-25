@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+}
+
+#second-nav {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
