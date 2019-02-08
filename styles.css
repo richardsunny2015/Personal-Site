@@ -4,7 +4,7 @@ nav {
     justify-content: space-between;
 }
 
-#second-nav {
+.second-nav {
     display: flex;
     justify-content: space-between;
     width: 50%;
