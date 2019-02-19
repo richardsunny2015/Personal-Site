@@ -103,3 +103,11 @@ nav {
 #first-nav {
 	width: 30%;
 }
+
+/* Landing */
+
+#landing {
+	text-align: center;
+	height: 20rem;
+	background-image: url("../images/code.jpeg");
+}
