@@ -108,6 +108,19 @@ nav {
 
 #landing {
 	text-align: center;
-	height: 20rem;
+	height: 30rem;
 	background-image: url("../images/code.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	/* opacity: 0.7; */
+}
+
+#landing h1 {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+#landing h4 {
+	font-size: 2rem;
 }
